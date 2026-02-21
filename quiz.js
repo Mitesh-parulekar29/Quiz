@@ -15,7 +15,7 @@ let current;
 
 let questionbox = document.getElementById("question")
 let optionbox = document.getElementById("options")
-let nxt = document.getElementById("nxt-btn")
+let nxt = document.getElementById("next-btn")
 let scoretag = document.getElementById("score")
 
 let loadArray = 
@@ -98,3 +98,4 @@ let checkAnswer =
     
 
 }
+
